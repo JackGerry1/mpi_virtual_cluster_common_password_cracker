@@ -100,4 +100,9 @@ sudo apt install openmpi-bin openmpi-common libopenmpi-dev
 ## Cluster Setup
 A full step-by-step cluster guide is [Setting Up Cluster Guide (PDF)](https://github.com/JackGerry1/mpi_virtual_cluster_common_password_cracker/blob/master/Setting%20Up%20Cluster%20Guide.pdf), covering everything from OS install, including SSH and MPI setup to benchmarking with HPL. 
 
-## License 
+## ⚠️ Notes & Limitations
+- This tool is educational and I made because I thought it was interesting — use responsibly (aka don't try to anything malicious, with it I am not responsible if that gets you in a whirlwind of trouble).
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/JackGerry1/mpi_virtual_cluster_common_password_cracker/blob/master/LICENSE).
